@@ -1,11 +1,12 @@
 @charset "UTF-8";
 
-.no-webp .header{
-  background: url("../img/bcg.png"); }
+/* .no-webp .header{
+  background: url("../img/bcg.png"); } */
 
 .header {
   height: 1900px;
   position: relative;
+  background: url("../img/bcg.png");
 }
 
 .logo {
@@ -667,4 +668,4 @@ footer {
   }
 }
 
-webp .header{ background: url(../img/bcg.webp); }
+/* webp .header{ background: url(../img/bcg.webp); } */
